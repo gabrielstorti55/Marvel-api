@@ -35,7 +35,7 @@ Este projeto é uma aplicação web desenvolvida em React que consome a API da M
 
 1. Clone o repositório:
 ```bash
-git clone 
+git clone https://github.com/gabrielstorti55/Marvel-api.git 
 ```
 
 2. Entre no diretório do projeto:
@@ -69,7 +69,7 @@ npm run dev
 
 ## 🌐 Deploy
 
-A aplicação está disponível online em: 
+A aplicação está disponível online em: https://vercel.com/gabrielstorti55s-projects/api-marvel
 
 ## 📸 Screenshots
 
