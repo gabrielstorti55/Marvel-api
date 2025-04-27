@@ -69,7 +69,7 @@ npm run dev
 
 ## 🌐 Deploy
 
-A aplicação está disponível online em: https://vercel.com/gabrielstorti55s-projects/api-marvel
+A aplicação está disponível online em: api-marvel-eta-lemon.vercel.app
 
 ## 📸 Screenshots
 
